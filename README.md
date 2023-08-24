@@ -1,0 +1,1 @@
+Bot Sampah Discord!
