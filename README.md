@@ -1,1 +1,1 @@
-Bot Sampah Discord!
+# Bot Sampah Discord!
